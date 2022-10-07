@@ -1,3 +1,3 @@
 # cloning kokoa
 
-know what css is
+to learn HTML, CSS
